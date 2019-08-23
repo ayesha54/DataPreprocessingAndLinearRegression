@@ -8,4 +8,4 @@ You just need to clone the repository.
 Run program by using following commands
 
 ```cd DataPreprocessingAndLinearRegression
-python3 temp.py```
+python3 temp.py
